@@ -5,12 +5,8 @@
 ### Author: Allison Busse
 
 ### Links and Resources
-* [submission PR](https://github.com/allisonbusse-401-advanced-javascript/lab-01/pull/1)
-* [travis](https://travis-ci.com/allisonbusse-401-advanced-javascript/lab-01)
-
-
-#### Documentation
-* [jsdoc](https://allisonbusse-401-advanced-javascript.github.io/lab-01/)
+* [submission PR](https://github.com/allisonbusse-401-advanced-javascript/lab-03/pull/1)
+* [travis](https://travis-ci.com/allisonbusse-401-advanced-javascript/lab-03/builds/128439119)
 
 
 #### Running the app
